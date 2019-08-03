@@ -32,6 +32,7 @@ DELL Latitude 5591 OSX Clover EFI
 - MX130 can not work
 - AC6590 WIFI can not work(instead of CF913AC V2 USB net card)
 - backlight adjust with FN+F6
+- Can not start after backlight adjusted(Sometime) 
 
 # reference
 ## Thanks all the follower:
