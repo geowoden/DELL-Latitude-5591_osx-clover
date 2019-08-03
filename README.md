@@ -34,7 +34,7 @@ DELL Latitude 5591 OSX Clover EFI
 - backlight adjust with FN+F6
 
 ## reference
-Thanks all the follower:
-黑果小兵的部落阁：https://blog.daliansky.net/
-dell precision 3520 efi: https://github.com/yangjinhe/dell_precision_3520_osx
-dell xps 15 9570 efi: https://github.com/LuletterSoul/Dell-XPS-15-9570-macOS-Mojave
+# Thanks all the follower:
+- 黑果小兵的部落阁：https://blog.daliansky.net/
+- dell precision 3520 efi: https://github.com/yangjinhe/dell_precision_3520_osx
+- dell xps 15 9570 efi: https://github.com/LuletterSoul/Dell-XPS-15-9570-macOS-Mojave
