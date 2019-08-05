@@ -81,7 +81,7 @@
 			<string>SSDT-XOSI.aml</string>
 			<string>SSDT-LPC.aml</string>
 			<string>SSDT-UIAC.aml</string>
-			<string>SSDT-PNLF.aml</string>
+			<string>SSDT-PNLFCFL.aml</string>
 		</array>
 		<key>AutoMerge</key>
 		<true/>
@@ -89,6 +89,8 @@
 		<dict>
 			<key>Fixes</key>
 			<dict>
+				<key>AddPNLF</key>
+				<true/>
 				<key>#Comment-IRQ Fix</key>
 				<string>The following fixes may be needed for onboard audio/USB/etc</string>
 			</dict>
@@ -387,7 +389,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<string>Detect</string>
+			<string>56</string>
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
