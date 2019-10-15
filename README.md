@@ -1,5 +1,5 @@
 # DELL-Latitude-5591_osx-clover
-DELL Latitude 5591 OSX Clover EFI
+DELL Latitude 5591 OSX Clover EFI For Mojava
 
 ## Hardware Detail:
 - Processor: i7 8th Gen: i7-8850H
